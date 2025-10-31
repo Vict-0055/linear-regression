@@ -1,0 +1,13 @@
+speed,weather  ,time_of_day,road_type,driver_age,accident_severity
+80,2,22,1,30,3
+45,1,14,2,22,1
+60,3,6,3,40,2
+100,2,23,1,35,3
+70,1,18,2,28,2
+55,3,5,3,50,2
+90,2,21,1,33,3
+40,1,13,2,25,1
+65,3,7,3,45,2
+85,2,20,1,38,3
+,,,,,Hyperlink to folder
+,,,,,accident_severity
